@@ -1,4 +1,4 @@
-import About from "./components/about";
+import About from "./components/page";
 import Header from "./components/header";
 
 const Home = ()  => {
